@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Data
+*.csv
+*.tsv
+*.xlsx
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+.settings/
+
+# macOS and Windows clutter
+.DS_Store
+Thumbs.db
+
+# Logs and output (OK to include data, so only ignore logs)
+*.log
+
+# Ignore backup or temp files
+*.bak
+*.tmp
+~$*
